@@ -1,0 +1,24 @@
+{
+  "name": "SourceUndead",
+  "version": "0.1.0",
+  "description": "Asyncronous multiplayer zombie survival game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUJodan/SourceUndeadv2.git"
+  },
+  "author": "Jordan Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RUJodan/SourceUndeadv2/issues"
+  },
+  "homepage": "https://github.com/RUJodan/SourceUndeadv2#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "express": "^4.13.3",
+    "mysql": "^2.10.0"
+  }
+}
